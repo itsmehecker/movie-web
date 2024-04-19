@@ -4,7 +4,7 @@ window.__CONFIG__ = {
   VITE_CORS_PROXY_URL: "https://celadon-crepe-e6af54.netlify.app",
 
   // The READ API key to access TMDB
-  VITE_TMDB_READ_API_KEY: "4b983dd2195d5f0313c5d8167c4f4ccc",
+  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhOTQyMjU4ZmNmNTEyYjc1ZGZiZWI2ODgzYWIyMWFlYSIsInN1YiI6IjY0YzI0YWYwZWRlMWIwMDBlNTBkOWFlMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OfvQGMrgkhwaW_uCVzETdG6kfR3AR67xxLvdYm7-k9A",
 
   // The DMCA email displayed in the footer, null to hide the DMCA link
   VITE_DMCA_EMAIL: null,
