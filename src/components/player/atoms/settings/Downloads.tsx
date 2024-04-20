@@ -54,6 +54,7 @@ export function DownloadView({ id }: { id: string }) {
       : null;
     if (!dataUrl) return;
     window.open(dataUrl);
+    console.log(dataUrl);
   }, [selectedCaption]);
 
   if (!downloadUrl) return null;
